@@ -1,0 +1,5 @@
+- https://stackoverflow.com/questions/5838605/python-dictwriter-writing-utf-8-encoded-csv-files
+- https://stackoverflow.com/questions/2887878/importing-a-csv-file-into-a-sqlite3-database-table-using-python
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_sql.html
+- https://stackoverflow.com/questions/15012228/splitting-on-last-delimiter-in-python-string
+- https://gist.github.com/carlward/54ec1c91b62a5f911c42
